@@ -1,3 +1,11 @@
+更新数据地址：
+链接:https://pan.baidu.com/s/11N8_7uj-P-glohcQsuruzQ 
+提取码:362r
+
+
+
+
+
 代码运行，依次运行mainscript.py--kbest.py--blend.py
 代码存储文件夹已建好，data存放解压数据，submit存放结果
 最终结果为end_755.csv
